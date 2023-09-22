@@ -1,4 +1,4 @@
-# Proyecto
+# Pagina Web Progresiva (PWA)
 Integrantes: <br>
 <ul>
   <li>Juan Miguel Barbosa García - 18173 </li>
